@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<local:ToolbarPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NaviagationViewDemo"
+             x:Class="NaviagationViewDemo.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Button
+            x:Name="bt1"
+            Text="click"
+            ></Button>
+    </StackLayout>
+
+</local:ToolbarPage>
